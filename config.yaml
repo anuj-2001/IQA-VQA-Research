@@ -1,0 +1,11 @@
+test_during_training: True 
+train_ratio: 0.6
+val_ratio: 0.2  
+test_ratio: 0.2  
+
+SOC:
+  root: C:\Users\anujp\Downloads\databaserelease2\databaserelease2\jp2k
+  gt_file_path: ./data/gt_files/LIVE_jp2k.xlsx
+  IQA_results_path: ./results/
+
+
