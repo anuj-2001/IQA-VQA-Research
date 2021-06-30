@@ -1,1 +1,1 @@
-# DIQA_Notebook
+# Research project on Image and Video Quality Assessment
